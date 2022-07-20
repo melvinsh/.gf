@@ -1,7 +1,6 @@
 {
     "flags": "-iE",
-     "patterns": [
- 
+    "patterns": [
         "daemon=",
         "upload=",
         "dir=",
@@ -34,5 +33,5 @@
         "payload=",
         "run=",
         "print="
-]
+    ]
 }

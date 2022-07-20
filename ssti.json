@@ -1,15 +1,13 @@
-
 {
-"flags": "-iE",
-"patterns": [
-
-"template=",
-"preview=",
-"id=",
-"view=",
-"activity=",
-"name=",
-"content=",
-"redirect="
-]
+  "flags": "-iE",
+  "patterns": [
+    "template=",
+    "preview=",
+    "id=",
+    "view=",
+    "activity=",
+    "name=",
+    "content=",
+    "redirect="
+  ]
 }

@@ -1,7 +1,6 @@
 {
     "flags": "-iE",
-     "patterns": [
-
+    "patterns": [
         "access=",
         "admin=",
         "dbg=",
@@ -28,5 +27,5 @@
         "root=",
         "cfg=",
         "config="
-]
+    ]
 }

@@ -1,7 +1,6 @@
 {
     "flags": "-iE",
-     "patterns": [
-
+    "patterns": [
         "file=",
         "document=",
         "folder=",
@@ -34,8 +33,6 @@
         "layout=",
         "mod=",
         "conf=",
-         "url="
-         
-
-]
+        "url="
+    ]
 }

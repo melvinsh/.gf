@@ -1,10 +1,9 @@
 {
     "flags": "-iE",
-     "patterns": [
-
+    "patterns": [
         "=.*.jpg",
         "=.*.jpeg",
         "=.*.gif",
         "=.*.png"
-]
+    ]
 }

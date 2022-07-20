@@ -1,8 +1,7 @@
 {
     "flags": "-iE",
-     "patterns": [
-
-         "id=",
+    "patterns": [
+        "id=",
         "select=",
         "report=",
         "role=",
@@ -31,5 +30,5 @@
         "string=",
         "number=",
         "filter="
-]
+    ]
 }
